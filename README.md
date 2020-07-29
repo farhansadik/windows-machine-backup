@@ -32,7 +32,7 @@
 Lastest Stable AMD Driver found at [*here*](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470). Stable Driver version is **Adrenalin 2020 Edition 20.4.2 (WHQL)** Rev. Date is **5/26/2020** 
 
 
-
+Global Settings 
 ![amd_global_settings.jpg](amd_global_settings.jpg)
 
 

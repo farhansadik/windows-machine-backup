@@ -15,7 +15,7 @@
   MainBoard : Gigabyte H61M-S2PV rev2.2
   GPU       : RX 470 4GB 
   OS [0]    : Arch Linux x86
-  OS [1]    : Windows 10 Pro v2004
+  OS [1]    : Windows 10 Pro 20H2 
 ```
 
 
@@ -25,7 +25,9 @@
 1. RX 470 - [Visit Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
 2. Intel HD 2500 - [Visit Official Site](https://downloadcenter.intel.com/product/81501/Intel-HD-Graphics-2500)
 
-
+### Bios Info 
+ * FB-25-2-2013 backup (***old (factory) version***)
+ * FCe 2014-03-03 (***updated bios***)
 
 ### GPU Settings
 

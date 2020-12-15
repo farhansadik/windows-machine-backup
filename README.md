@@ -1,11 +1,6 @@
 # Windows Configuration
 
-> ## Note 
-> I've created this repository for storing my data. This is only for my personal use. For more info please take a look [**wiki page**](https://github.com/farhansadik/windows-setup/wiki). I've stored lot of my informative research data.
-
-
-
-<b> My Desktop Configuration </b>
+**System Configuration**
 
 ```
   CPU       : Intel Core i5-3470 @ 4x 3.6GHz
@@ -18,23 +13,26 @@
   OS [1]    : Windows 10 Pro 20H2 
 ```
 
-
-
-### Drivers 
-
-1. RX 470 - [Visit Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
-2. Intel HD 2500 - [Visit Official Site](https://downloadcenter.intel.com/product/81501/Intel-HD-Graphics-2500)
-
-### Bios Info 
+**System Info**
+ * Windows ~ Installed on GPT partition with UEFI in SSD. 
+ * Linux ~ not installed yet 
+ 
+**Motherboard Bios Info**
  * FB-25-2-2013 backup (***old (factory) version***)
  * FCe 2014-03-03 (***updated bios***)
 
+### Drivers 
+
+1. AMD RX 470 - [Visit Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
+2. Intel HD 2500 - [Visit Official Site](https://downloadcenter.intel.com/product/81501/Intel-HD-Graphics-2500)
+
 ### GPU Settings
+**sted Stable AMD Driver List**
+I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no display, fps drop etc. So I've decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
 
-Lastest Stable AMD Driver found at [*here*](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470). Stable Driver version is **Adrenalin 2020 Edition 20.4.2 (WHQL)** Rev. Date is **5/26/2020** 
+Stable Driver version is **Adrenalin 2020 Edition 20.4.2 (WHQL)** Rev. Date is **5/26/2020** 
 
-
-Global Settings 
+**Global Settings**
 ![amd_global_settings.jpg](amd_global_settings.jpg)
 
 

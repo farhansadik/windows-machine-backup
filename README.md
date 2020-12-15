@@ -26,7 +26,7 @@
 2. Intel HD 2500 - [Visit Official Site](https://downloadcenter.intel.com/product/81501/Intel-HD-Graphics-2500)
 
 ### GPU Settings
-**Listed Stable AMD Driver List**
+**Listed Stable AMD Driver List** <br>
 I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no display, fps drop etc. So I've decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
 > Currently using **Adrenalin 2020 Edition 20.2.2 (WHQL)**
 

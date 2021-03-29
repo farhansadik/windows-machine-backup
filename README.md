@@ -3,23 +3,23 @@
 **System Configuration**
 
 ```
-  CPU       : Intel Core i5-3470 @ 4x 3.6GHz
-  RAM       : 8GB (2x4) 1333 Mhz DDR3
-  SSD       : INTEL SSDSC2BW12 120GB
+  CPU       : AMD Ryzen 3 3100 4-Core Processor (8 CPUs), ~3.6GHz
+  RAM       : Ripjaws V DDR4-3400MHz CL16-18-18-38 1.35V 8GB Single Stick
+  SSD       : Null
   HDD       : ATA TOSHIBA DT01ACA0 500GB
-  MainBoard : Gigabyte H61M-S2PV rev2.2
-  GPU       : RX 470 4GB 
+  MainBoard : Gigabyte B450M DS3H V2 Rev v1.0
+  GPU       : AMD RX 470 4GB 
   OS [0]    : Arch Linux x86
   OS [1]    : Windows 10 Pro 20H2 
 ```
 
 **System Info**
- * Windows ~ Installed on GPT partition with UEFI in SSD. 
+ * Windows ~ Installed on GPT partition with UEFI. 
  * Linux ~ not installed yet 
  
 **Motherboard Bios Info**
- * FB-25-2-2013 backup *(old (**factory**) version)*
- * FCe 2014-03-03 *(updated and current bios)*
+ * F1-17-8-20-FactoryBios (F1) *(old (**factory**) version)*
+ * B45MDSHV.F60 (F60) *(updated and current bios)*
 
 ### Drivers 
 1. AMD RX 470 - [Visit Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
@@ -28,7 +28,7 @@
 ### GPU Settings
 **Listed Stable AMD Driver List** <br>
 I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no display, fps drop etc. So I've decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
-> Currently using **Adrenalin 2020 Edition 20.2.2 (WHQL)**
+> Currently using **Adrenalin 2020 Edition 20.4.2 (WHQL)**
 
 | No | Driver Version | Marks                              | Basic Info                                                                      |
 |----|----------------|------------------------------------|---------------------------------------------------------------------------------|
@@ -38,12 +38,11 @@ I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no dis
 |  4 | [20.8.3]()     | :star: :star: :star: :star: :star: | This one is another stable driver and it's replaces **20.4.2** with latest updates. |
 |  5 | [20.9.1]()     | :star:                             | **20.11.2** is better then that.                                                    |
 |  6 | [20.11.2]()    | :star: :star: :star:               | Recommended and good for latest games, and slightly gave better fps.            |
-|  7 | [20.12.1]()    | :star:                             | On Test                                                                         |
+|  7 | [20.12.1]()    |                                    | Not Tested Yet                                                                  |
+|  8 | [21.3.1]()     |                                    | Not Tested Yet                                                                  |
 
 **Global Settings**
 ![amd_global_settings.jpg](amd_global_settings.jpg)
-
-
 
 
 

@@ -18,15 +18,16 @@
  * Linux ~ not installed yet 
  
 **Motherboard Bios Info**
- * F1-17-8-20-FactoryBios (F1) *(old (**factory**) version)*
- * B45MDSHV.F60 (F60) *(updated and current bios)*
+ * F1-17-8-20-FactoryBios (F1) *(old factory version)*
+ * B45MDSHV.F60 (F60) **(updated and current bios)**
 
 ### Drivers 
-1. AMD RX 470 - [Visit Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
-2. Intel HD 2500 - [Visit Official Site](https://downloadcenter.intel.com/product/81501/Intel-HD-Graphics-2500)
+1. AMD RX 470 - [AMD Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
+2. B450 Chipset - [AMD Official Site](https://www.amd.com/en/support/chipsets/amd-socket-am4/b450)
+3. Gigabyte Drivers - [www.gigabyte.com](https://www.gigabyte.com/bd/Motherboard/B450M-DS3H-V2-rev-10/support#support-dl-driver)
 
 ### GPU Settings
-**Listed Stable AMD Driver List** <br>
+**Listed Stable AMD GPU Driver List** <br>
 I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no display, fps drop etc. So I've decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
 > Currently using **Adrenalin 2020 Edition 20.4.2 (WHQL)**
 
@@ -40,8 +41,10 @@ I've faced lot's of issue in amd driver's. Like blue screen, dark screen, no dis
 |  6 | [20.11.2]()    | :star: :star: :star:               | Recommended and good for latest games, and slightly gave better fps.            |
 |  7 | [20.12.1]()    |                                    | Not Tested Yet                                                                  |
 |  8 | [21.3.1]()     |                                    | Not Tested Yet                                                                  |
+|  9 | [21.4.1]()     |                                    | Not Tested Yet                                                                  |
+|  10 | [21.5.2]()     |                                    | Not Tested Yet                                                                  |
 
-**Global Settings**
+### Global Settings
 ![amd_global_settings.jpg](amd_global_settings.jpg)
 
 

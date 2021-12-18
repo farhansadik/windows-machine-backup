@@ -31,7 +31,7 @@
 **Listed Stable AMD GPU Driver List** <br>
 I've faced tons of issues in AMD driver. Like blue screen, dark screen, no display, fps drop, over heating etc. So I have decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
 
-> Currently using **Adrenalin 2019 Edition 19.12.1 **
+> Currently using **Adrenalin 2019 Edition 19.12.1**
 
 | No | Driver Version | Marks                              | Basic Info                                                                      |
 |----|----------------|------------------------------------|---------------------------------------------------------------------------------|

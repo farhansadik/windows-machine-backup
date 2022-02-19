@@ -10,7 +10,7 @@
   MainBoard : Gigabyte B450M DS3H V2 Rev v1.0
   GPU       : AMD RX 470 4GB 
   OS [0]    : Arch Linux x86
-  OS [1]    : Windows 10 Pro 21H1 
+  OS [1]    : Windows 10 Pro 21H2 
 ```
 
 **System Info**

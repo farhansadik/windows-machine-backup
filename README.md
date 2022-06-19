@@ -19,8 +19,9 @@
 
 **Motherboard Bios Info**
 
- * F1-17-8-20-Factory Bios (F1) *(old factory version)*
- * B45MDS3H.F61 (F61) **(updated and current bios)**
+ * F1-17-8-20-Factory Bios (F1) *(factory version)*
+ * B45MDS3H.F61 (F61)
+ * F62 **current bios**
 
 ### Drivers 
 1. AMD RX 470 - [AMD Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
@@ -42,6 +43,7 @@ I've faced tons of issues in AMD driver. Like blue screen, dark screen, no displ
 | 5 | [20.8.3]()     | :star: :star: :star: :star: :star: | This one is another stable driver and it's replaces **20.4.2** with latest updates. |
 | 6 | [20.9.1]()     | :star:                             | **20.11.2** is better then that.                                                    |
 | 7 | [20.11.2]()    | :star: :star: :star:               | Recommended and good for latest games, and slightly gave better fps.            |
+| 8 | [22.3.1]()     | :star: :star: :star: :star: :star: | Currently running this version and stable for now.... using last 2-3 months     |
 
 ### Global Settings
 ![amd_global_settings.jpg](amd_global_settings.jpg)

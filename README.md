@@ -8,31 +8,34 @@
   SSD       : Walton Antique 256GB nvme m.2 SSD 
   HDD       : ATA TOSHIBA DT01ACA0 500GB
   MainBoard : Gigabyte B450M DS3H V2 Rev v1.0
-  GPU       : AMD RX 470 4GB 
-  OS [0]    : Arch Linux x86
-  OS [1]    : Windows 10 Pro 21H2 
+  GPU       : Sapphire Pulse RX 580 8GB
+  OS [0]    : Fedora Workstation 38
+  OS [1]    : Windows 10 Pro 22H2 
 ```
 
-**System Info**
- * Windows ~ Installed on GPT partition with UEFI. 
- * Linux ~ not installed yet 
+**Operating System Info**
+ * Windows ~ Windows 10 Pro (Installed on GPT partition with UEFI). 
+ * Linux ~ Fedora Workstation 38
 
 **Motherboard Bios Info**
 
  * F1-17-8-20-Factory Bios (F1) *(factory version)*
  * B45MDS3H.F61 (F61)
- * F62 **current bios**
+ * F62 **Installed**
 
 ### Drivers 
-1. AMD RX 470 - [AMD Official Site](https://www.amd.com/en/support/graphics/radeon-400-series/radeon-rx-400-series/radeon-rx-470)
+1. AMD RX 580 - [AMD Official Site](https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580)
 2. B450 Chipset - [AMD Official Site](https://www.amd.com/en/support/chipsets/amd-socket-am4/b450)
-3. Gigabyte Drivers - [Gigabyte Official Site](https://www.gigabyte.com/bd/Motherboard/B450M-DS3H-V2-rev-10/support#support-dl-driver)
+3. Gigabyte Drivers[Unnecessary] - [Gigabyte Official Site](https://www.gigabyte.com/bd/Motherboard/B450M-DS3H-V2-rev-10/support#support-dl-driver)
 
 ### GPU Settings
+
 **Listed Stable AMD GPU Driver List** <br>
 I've faced tons of issues in AMD driver. Like blue screen, dark screen, no display, fps drop, over heating etc. So I have decided to listing a stable driver list, may it help other's to choose the best driver for their devices. 
 
-> Currently using **Adrenalin 2019 Edition 19.12.1**
+> Currently using **Adrenalin Edition 23.9.2**
+
+### THE LIST HAS BEEN OUTDATED!
 
 | No | Driver Version | Marks                              | Basic Info                                                                      |
 |----|----------------|------------------------------------|---------------------------------------------------------------------------------|
@@ -45,11 +48,6 @@ I've faced tons of issues in AMD driver. Like blue screen, dark screen, no displ
 | 7 | [20.11.2]()    | :star: :star: :star:               | Recommended and good for latest games, and slightly gave better fps.            |
 | 8 | [22.3.1]()     | :star: :star: :star: :star: :star: | Currently running this version and stable for now.... using last 2-3 months     |
 
-### Global Settings
-![amd_global_settings.jpg](amd_global_settings.jpg)
-
-
-
 Farhan Sadik <br>
-Square Development Group
+
 

@@ -1,0 +1,33 @@
+VID 1 https://www.youtube.com/watch?v=eBuc_Nk05K8&t=460s
+VID 2 https://www.youtube.com/watch?v=qQWl9lgYaJM&t=1s
+VID 3 https://www.youtube.com/shorts/uUBavBB_7kc
+
+[CMD GUIDE] [RESOURCES]
+https://www.techpowerup.com/forums/threads/sapphire-rx-580-8-gb-special-edition-bios.297527/
+https://www.techpowerup.com/forums/threads/amd-ati-flash-command-line-cmd-syntax-mini-guide-windows.291671/
+https://www.techpowerup.com/forums/threads/rx-580-8g-2048sp-wont-install-drivers.308316/
+============================================================================================
+this was the tutorial that had the CLI forcing the rom to unlock
+
+///////////////////////////////////////////////////////////////
+at CMD, type in this
+CD \ which takes you to the C:\
+then this is an example CD C:\AMDVBFLASH\AMDVBFLASH3.31
+you are now in the folder where AMDVBFLASH.EXE is in
+
+type in this C:\AMDVBFLASH\AMDVBFLASH3.31\amdvbflash -i
+that will identify the GPU with the number 0 (ZERO), 1 etc should be the only one gpu.
+
+then type in amdvbflash -unlockrom 0
+
+then type in amdvbflash -p -fa -fp 0 biosname.rom
+///////////////////////////////////////////////////////////////
+
+thanks very much for your assistance,,,, is greatly appreciated
+============================================================================================
+
+[BASIC DISCUSSION]
+https://www.techpowerup.com/forums/threads/why-we-should-flash-gpu-bios.297151/
+
+Review 
+https://www.kitguru.net/components/graphic-cards/dominic-moass/sapphire-rx-580-pulse-8gb-review/all/1/
